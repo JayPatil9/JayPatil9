@@ -1,9 +1,11 @@
+<html>
 <head>
 <link rel="stylesheet" href="/style.css"></link>
 </head>
 <body>
 <h2>Hii,I'm JAY</h2>
 </body>
+</html>
 
 <!--
 **JayPatil9/JayPatil9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
