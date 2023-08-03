@@ -1,5 +1,5 @@
 <head>
-<link rel="stylesheet" src="/style.css"></link>
+<link rel="stylesheet" href="/style.css"></link>
 </head>
 <body>
 <h2>Hii,I'm JAY</h2>
