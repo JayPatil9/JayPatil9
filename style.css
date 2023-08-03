@@ -1,0 +1,9 @@
+@font-face {
+   font-family: super_fun;
+   src: url(Super Funtime.ttf);
+}
+ 
+h2 {
+   font-family: super_fun;
+   color: blue;
+}
