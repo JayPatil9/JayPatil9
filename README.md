@@ -1,4 +1,9 @@
-![Hello](/hello.png)
+<p align="center"> 
+ <picture> 
+   <source media="(prefers-color-scheme: dark)" srcset="/hello_dark.png" /> 
+   <img src="hello.png"> 
+ </picture> 
+ </p>
 
 ---
 <p align="center">
@@ -9,18 +14,13 @@
 </p>
 
 ----
-![About](about.jpeg)
-<!--
-**JayPatil9/JayPatil9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ <picture> 
+   <source media="(prefers-color-scheme: dark)" srcset="/about_dark.png" /> 
+   <img src="about.png"> 
+ </picture> 
+ </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🌱 Yet another **Passionate Student.**
+-👨‍🎓 I'm a freshman at
+-💫 I'm a **Software documentation enthusiast.**
