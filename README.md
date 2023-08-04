@@ -1,4 +1,4 @@
-![Hello](/hello.jpeg)
+![Hello](/hello.png)
 
 ---
 <p align="center">
