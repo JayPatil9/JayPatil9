@@ -21,6 +21,6 @@
  </picture> 
  </p>
 
--🌱 Yet another **Passionate Student.**
--👨‍🎓 I'm a freshman at
--💫 I'm a **Software documentation enthusiast.**
+- 🌱 Yet another **Passionate Student.**
+- 👨‍🎓 I'm a freshman at
+- 💫 I'm a **Software documentation enthusiast.**
