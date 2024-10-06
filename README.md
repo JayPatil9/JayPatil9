@@ -7,9 +7,8 @@
 </p>
 
 - 🌱 Yet another **Passionate Student.**
-- 👨‍🎓 I'm a freshman at **VJTI**
-- 🧭 I'm currently exploring **Open Source**
-- 💫 I'm a **Software documentation enthusiast.**
+- 👨‍🎓 I'm a undergrad at **VJTI**
+- 🧭 I'm currently exploring **Web3**
 
 ## ⚡ Technologies:-
 
