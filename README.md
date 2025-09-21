@@ -8,7 +8,7 @@
 
 - 🌱 Yet another **Passionate Student.**
 - 👨‍🎓 I'm an undergrad at **VJTI**
-- 🧭 I'm currently exploring **Web3**
+- 🧭 I'm currently exploring **Image Processing**
 
 ## ⚡ Technologies:-
 
